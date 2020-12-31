@@ -1,0 +1,7 @@
+[x] user login
+[x] user daftar
+[x] user cart
+[x] list product all
+[] list product category
+[x] user add to chart
+[] user checkout
